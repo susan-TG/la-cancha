@@ -1,0 +1,66 @@
+/* Inserta tu CSS aqui */
+.pasto {
+	width: 1000px;
+	height: 600px;
+	background-color: #87BC79;
+	position: static;	
+}
+.lineafuera {
+	width: 948px;
+	height: 548px;
+	border: 2px solid white;
+	position: absolute;
+	left: 32px;
+	top: 32px;
+}
+.derecho {
+	width: 150px;
+	height: 200px;
+	border: 2px solid white;
+	position: absolute;
+	left: 32px;
+	top: 202px;
+}
+.izquierdo {
+	width: 150px;
+	height: 200px;
+	border: 2px solid white;
+	position: absolute;
+	right: 382px;
+	top: 202px;
+}
+.circulo {
+	 width: 200px;
+     height: 200px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 2px solid white;
+     position: absolute;
+     right: 770px;
+     top: 202px;
+}
+.uno {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/bola.png);
+	position: absolute;
+	left: 170px;
+	top: 205px;
+}
+.dos {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/bola.png);
+	position: absolute;
+	right: 540px;
+	top: 372px;
+}
+.tres {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/bola.png);
+	position: absolute;
+	right: 840px;
+	top: 122px;
+}
